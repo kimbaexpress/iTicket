@@ -1,0 +1,15 @@
+h2 {
+    font-family: 'Righteous', cursive;
+}
+
+.max-w-custom {
+    max-width: 300px;
+    /* O cualquier otro valor específico que prefieras */
+}
+
+.no-outline:focus {
+    outline: none;
+}
+#main-content {
+    height: calc(100vh - 60px); /* Ajusta 60px al tamaño de tu navbar */
+}

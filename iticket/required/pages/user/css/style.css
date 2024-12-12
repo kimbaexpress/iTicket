@@ -1,0 +1,44 @@
+h2 {
+    font-family: 'Righteous', cursive;
+}
+
+.max-w-custom {
+    max-width: 300px;
+    /* O cualquier otro valor específico que prefieras */
+}
+
+.no-outline:focus {
+    outline: none;
+}
+#main-content {
+    height: calc(100vh - 60px); /* Ajusta 60px al tamaño de tu navbar */
+}
+/* Estilo para el botón "Visualizar" */
+.swal-button-confirm {
+    background-color: #2b2b2b; /* Azul Tailwind */
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.375rem; /* Equivalente a rounded-md */
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}
+
+.swal-button-confirm:hover {
+    background-color: #1D4ED8; /* Azul más oscuro al hover */
+}
+
+/* Estilo para el botón "Cerrar" */
+.swal-button-cancel {
+    background-color: #2563EB; /* Azul Tailwind */
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.375rem; /* Equivalente a rounded-md */
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}

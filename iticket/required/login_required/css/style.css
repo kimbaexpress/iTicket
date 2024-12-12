@@ -1,0 +1,9 @@
+h2 {
+    font-family: 'Righteous', cursive;
+}
+.max-w-custom {
+    max-width: 300px; /* O cualquier otro valor específico que prefieras */
+}
+.no-outline:focus {
+    outline: none;
+}
