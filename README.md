@@ -68,3 +68,27 @@ Requerimientos para el correcto funcionamiento
     Node.js
     Composer
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+Login (Inicio de sesión)
+
+![1_login](https://github.com/user-attachments/assets/91490ad2-4e01-4f1a-ae03-761c9b6e9537)
+
+Dashboard (Panel de inicio)
+
+![2_dashboard](https://github.com/user-attachments/assets/6569f58b-dd50-4591-b8a3-42c74ae97d10)
+
+Tickets
+
+![3_tickets](https://github.com/user-attachments/assets/3c3a3f0b-00e1-4a66-8c4d-df9fc0277bd9)
+
+View Ticket (Visualización del Ticket)
+
+![4_view_ticket](https://github.com/user-attachments/assets/d13a45fc-d322-473b-8556-89da629aaa97)
+
+Stats (Estadisticas)
+
+![5_stats](https://github.com/user-attachments/assets/409dc638-4ef8-4883-8129-333ebbeae6b1)
+
+
+
