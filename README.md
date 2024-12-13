@@ -1,3 +1,6 @@
+
+![portada](https://github.com/user-attachments/assets/094ba08f-2e14-48f5-bbf0-eb40e1ff4ca7)
+
 iTicket
 Descripción
 
