@@ -3,6 +3,9 @@ Descripción
 
 iTicket es un sistema de gestión de tickets implementado en el sector de Sistemas de un hospital. Funciona integrado con un chatbot de WhatsApp, el cual recopila la información necesaria del usuario (solicitante) y luego genera el ticket en la plataforma iTicket. Este sistema facilita la asignación, el seguimiento y la resolución de incidencias internas.
 
+Te invito a visualizar el reposito del ChatBOT para implementarlo con iTicket.
+https://github.com/kimbaexpress/ChatBot
+
 Importante: Este sistema de tickets funciona únicamente a través de WhatsApp.
 Funcionamiento Interno
 Panel (Dashboard)
